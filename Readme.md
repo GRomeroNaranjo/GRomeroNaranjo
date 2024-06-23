@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GRomeroNaranjo
-- 👀 I’m interested in Business and technology so thats why I own a technology company about PC and software. And I own a technology community server.
-- 🌱 I’m currently learning More about software to expand my knowledge.
-- 📫 If you are interested in my business do not hesitate to reach out.
+- 👀 I’m interested in Machine Learning and Deep Learning.
+- 🌱 I’m currently creating some Machine Learning Models and some Deep Learning Models
 
 <!---
 GRomeroNaranjo/GRomeroNaranjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
