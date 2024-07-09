@@ -1,4 +1,4 @@
-!(pexels-luis-gomes-166706-546819.jpg)
+![Image by Luis Gomes](pexels-luis-gomes-166706-546819.jpg)
 
 
 - 👋 Hi, I’m @GRomeroNaranjo
