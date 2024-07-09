@@ -2,12 +2,12 @@
 Image by Luis Gomes
 
 
-Hi, I am Guillem. I am passionate about Deep Learning, Machine Learning, and Data Science. Currently still expanding my knowledge for these fields. 
 
 
-- 👋 Hi, I’m @GRomeroNaranjo
-- 👀 I’m interested in Machine Learning and Deep Learning.
-- 🌱 I’m currently learning more about multi-task learning
+
+- 👋 Hi, I’m @GRomeroNaranjo. I code in python, specifically I explore AI.
+- 👀 I’m interested in Machine Learning and Deep Learning. Currently still expanding my knowledge for these fields. 
+- 🌱 I’m currently learning more about multi-task learning, and working on some cool models.
 
 <!---
 GRomeroNaranjo/GRomeroNaranjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
