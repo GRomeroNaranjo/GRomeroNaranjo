@@ -1,4 +1,8 @@
 ![Image by Luis Gomes](pexels-luis-gomes-166706-546819.jpg)
+Image by Luis Gomes
+
+
+Hi, I am Guillem. I am passionate about Deep Learning, Machine Learning, and Data Science. Currently still expanding my knowledge for these fields. 
 
 
 - 👋 Hi, I’m @GRomeroNaranjo
