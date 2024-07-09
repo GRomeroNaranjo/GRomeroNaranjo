@@ -1,4 +1,4 @@
-![Photo by Pixabay] (pexels-pixabay-270360.jpg)
+![Photo by Pixabay](pexels-pixabay-270360.jpg)
 Photo by Pixabay: https://www.pexels.com/photo/turned-on-computer-monitor-displaying-text-270360/
 
 ## About Me
