@@ -8,3 +8,7 @@ Photo by Pixabay: https://www.pexels.com/photo/turned-on-computer-monitor-displa
 ## My Projects
 
 While I am currently a beginner, I am working on many interesting, intricate, and complex projects. Recently, I have been developing, and implementing some Deep Learning algorithms from scratch, in order to fully understand what goes on in the background. I am also using tensorflow and sklearn, to forecast, classify, and segregate many types of data. These types of projects are allowing me to expand my knowledge within this field. In the future I plan to start implementing and creating some multi-task learning models.
+
+## My Research
+
+I am also investigsting into new orignial implementetions of generating images from text. While my algorithm might not be the most modern and sophisticated it does give room for further research and advancments potentially changing the way we tackle image genretion.
