@@ -3,12 +3,8 @@ Photo by Pixabay: https://www.pexels.com/photo/turned-on-computer-monitor-displa
 
 ## About Me
 
-👋 Hi, I’m @GRomeroNaranjo. I code in python, and I am passionate towards AI, Math, and Computer Science. I love learning how different algorithms work, and then aim to replicate them. I’m interested in Machine Learning and Deep Learning. Currently still expanding my knowledge for these fields.
+👋 Hi, I’m @GRomeroNaranjo. I code in python, and I am passionate towards Deep Learning, Math, and generally computer science. I am currently working on many intricate projects, including a Language Model for an AI research company, a stock prediction deep learning program, and a medical advisor program empowered by artificial intelligence. 
 
-## My Projects
+## What I am working on
 
-While I am currently a beginner, I am working on many interesting, intricate, and complex projects. Recently, I have been developing, and implementing some Deep Learning algorithms from scratch, in order to fully understand what goes on in the background. I am also using tensorflow and sklearn, to forecast, classify, and segregate many types of data. These types of projects are allowing me to expand my knowledge within this field. In the future I plan to start implementing and creating some multi-task learning models.
-
-## My Research
-
-I am also investigsting into new orignial implementetions of generating images from text. While my algorithm might not be the most modern and sophisticated it does give room for further research and advancments potentially changing the way we tackle image genretion.
+I am currently working at an AI research company called Sociloc, as one of the co-founders, I am leading the development of many AI technologies. TrendX is currently under prototyping, while I am leading the LLM creation (Aurora), and the medical advisor creation (Zylo). I have experience with deep learning, I know the mathematics within many algorithms (Such as CNN, RNN, LSTM, Transformers, FNN, GAN, etc.), and I also have a lot of creativity towards new implementations of these algorithms. I am also currently working on some research for an algorithm I call CSN. It implements a way where two algorithms can teach each other, and optimize each other to develop more diverse parameters.
