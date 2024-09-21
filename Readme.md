@@ -12,3 +12,4 @@ I am currently working at an AI research company called Sociloc, as one of the c
 ## Stats
 ![GRomeroNaranjo's Stats](https://github-readme-stats.vercel.app/api?username=GRomeroNaranjo&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![GRomeroNaranjo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GRomeroNaranjo&theme=radical&hide_border=true)
+![GRomeroNaranjo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GRomeroNaranjo&theme=radical&show_icons=true&hide_border=true&layout=compact)
