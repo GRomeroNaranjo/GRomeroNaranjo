@@ -3,7 +3,7 @@ Photo by Pixabay: https://www.pexels.com/photo/turned-on-computer-monitor-displa
 
 ## About Me
 
-👋 Hi, I’m @GRomeroNaranjo. I code in python, and I am passionate towards Deep Learning, Math, and generally computer science. I am currently working on many intricate projects, including a Language Model for an AI research company, a stock prediction deep learning program, and a medical advisor program empowered by artificial intelligence. 
+👋 Hi, I’m @GRomeroNaranjo. I am 13 years old, and I code in python, and I am passionate towards Deep Learning, Math, and generally computer science. I am currently working on many intricate projects, including a Language Model for an AI research company, a stock prediction deep learning program, and a medical advisor program empowered by artificial intelligence. 
 
 ## What I am working on
 
