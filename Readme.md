@@ -1,19 +1,33 @@
 ![Photo by Pixabay](pexels-pixabay-270360.jpg)
 Photo by Pixabay: https://www.pexels.com/photo/turned-on-computer-monitor-displaying-text-270360/
 
+# Hi there! 👋
+
+I'm a 13-year-old developer passionate about deep learning. I'm currently working on various deep learning projects and constantly learning new things.
+
 ## About Me
 
-👋 Hi, I’m @GRomeroNaranjo. I am 13 years old, I code in python, and I am passionate towards Deep Learning, Math, and generally computer science. I am currently working on many intricate projects, including a Language Model for an AI research company, a stock prediction deep learning program, and a medical advisor program empowered by artificial intelligence. 
+- 🧠 I love deep learning and artificial intelligence.
+- 💻 I'm working on multiple deep learning projects.
+- 📚 I'm always eager to learn and improve my skills.
 
-## What I am working on
+## Projects
 
-I am currently working at an AI research company called Sociloc, as one of the co-founders, I am leading the development of many AI technologies. TrendX is currently under prototyping, while I am leading the LLM creation (Aurora), and the medical advisor creation (Zylo). I have experience with deep learning, I know the mathematics within many algorithms (Such as CNN, RNN, LSTM, Transformers, FNN, GAN, etc.), and I also have a lot of creativity towards new implementations of these algorithms. I am also currently working on some research for an algorithm I call CSN. It implements a way where two algorithms can teach each other, and optimize each other to develop more diverse parameters.
+### TrendX - Stock Prediction Model
+TrendX is a stock prediction model I'm currently improving. The goal is to accurately predict stock market trends using advanced machine learning techniques.
 
-## Stats
+### Aurora - Language Model
+Aurora is a language model based around the GPT-2 architecture. It aims to generate human-like text and assist in natural language processing tasks.
 
-![GRomeroNaranjo's Stats](https://github-readme-stats.vercel.app/api?username=GRomeroNaranjo&theme=radical&show_icons=true&hide_border=true&count_private=true)
+### Self-Walking Robot
+I'm working on a self-walking robot project. The robot initially walks with wheels and is currently being simulated.
 
-![GRomeroNaranjo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GRomeroNaranjo&theme=radical&hide_border=true)
+## GitHub Stats
 
-![GRomeroNaranjo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GRomeroNaranjo&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![GRomeroNaranjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRomeroNaranjo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRomeroNaranjo&layout=compact&theme=radical)
 
+## Contact
+
+You can reach me at:
+- [Your Email](guillemrn9@gmail.com)
