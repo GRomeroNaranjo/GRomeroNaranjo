@@ -25,9 +25,8 @@ I'm working on a self-walking robot project. The robot initially walks with whee
 ## GitHub Stats
 
 ![GRomeroNaranjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GRomeroNaranjo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GRomeroNaranjo&layout=compact&theme=radical)
 
 ## Contact
 
 You can reach me at:
-- [Your Email](guillemrn9@gmail.com)
+- [Email](guillemrn9@gmail.com)
