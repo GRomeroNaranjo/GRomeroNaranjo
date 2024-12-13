@@ -15,7 +15,7 @@ I'm a 13-year-old developer passionate about deep learning. I'm currently workin
 
 ### TrendX - Stock Prediction Model
 TrendX is a sophisticated stock prediction model. The goal is to accurately predict stock market trends using advanced machine learning techniques. 
-- **Technologies used**: Python, TensorFlow, Keras
+- **Technologies used**: Python, PyTorch
 - **Features**:
   - Historical data analysis
   - Feature engineering for better predictions
