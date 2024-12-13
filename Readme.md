@@ -14,13 +14,25 @@ I'm a 13-year-old developer passionate about deep learning. I'm currently workin
 ## Projects
 
 ### TrendX - Stock Prediction Model
-TrendX is a stock prediction model I'm currently improving. The goal is to accurately predict stock market trends using advanced machine learning techniques.
+TrendX is a sophisticated stock prediction model. The goal is to accurately predict stock market trends using advanced machine learning techniques. 
+- **Technologies used**: Python, TensorFlow, Keras
+- **Features**:
+  - Historical data analysis
+  - Feature engineering for better predictions
+  - Implementation of LSTM networks for time-series forecasting
+  - Backtesting strategies to evaluate model performance
+- **Current status**: Improving model accuracy by integrating a decoder transformer architecture.
 
 ### Aurora - Language Model
-Aurora is a language model based around the GPT-2 architecture. It aims to generate human-like text and assist in natural language processing tasks.
+Aurora is a language model based around the GPT-2 architecture. It aims to generate human-like text.
+- **Technologies used**: Python, PyTorch
+- **Features**:
+  - Text generation
+  - Custom dataset training
+- **Current status**: Training the model with various datasets to enhance its text generation capabilities.
 
 ### Self-Walking Robot
-I'm working on a self-walking robot project. The robot initially walks with wheels and is currently being simulated.
+The self-walking robot project involves designing and building a robot capable of autonomous walking and going to a specified point. Initially, the robot moves using wheels, but the goal is to develop a more advanced walking mechanism. This project includes simulation and real-world testing to refine the robot's navigation and obstacle avoidance capabilities. The robot uses a combination of algorithms to move independently.
 
 ## GitHub Stats
 
