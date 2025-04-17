@@ -1,5 +1,3 @@
-![Photo by Pixabay](pexels-pixabay-270360.jpg)
-Photo by Pixabay: https://www.pexels.com/photo/turned-on-computer-monitor-displaying-text-270360/
 
 # Hi there! 👋
 
@@ -9,7 +7,7 @@ Sup, I am Guillem Romero Naranjo, a simple 13 year old passionate about Mathemat
 - Applications of GNNs
 - Reinforcment Learning For LLMs
 - Extended applications of the transformer architecture.
-- 
+  
 Additionally, I am beginning to learn more about combinatorics, abstract algebra, and bayesin probability for personal projects. If you want to collaborate, just reach out, I am happy to work on projects.
 
 ## GitHub Stats
