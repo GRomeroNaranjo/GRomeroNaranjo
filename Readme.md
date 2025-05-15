@@ -1,9 +1,1 @@
-Hey, I’m Guillem Romero Naranjo. I’m 14, and most of what I do sits somewhere between math and machine learning, usually where things start to get abstract and interesting. I’ve been diving deeper into linear algebra and multivariate calculus—not just as tools for ML, but because I like understanding how complex systems behave when you strip them down to the fundamentals.
-
-I’ve also been exploring statistics at a deeper level. I’m building a library called DeepFlare—it’s entirely from scratch in NumPy, and it’s focused on statistical modeling, multivariable functions, and probabilistic tools. Lately, I’ve started folding in deep learning features, not because I have to, but because I’m curious about where classical stats and neural networks can meet in useful ways.
-
-On the ML side, I built a transformer-based character-level language model trained on the Tiny-Shakespeare dataset. It wasn’t about performance—it was more of a curiosity project to see how compact models pick up structure from raw text. I also ran an experiment applying GNNs to the Collatz conjecture, mostly to see what kinds of patterns (if any) a network could pull from a deterministic but chaotic system. Furthermore, I am trying to develop a GNN based model to predict the drag coefficient for different places in a model car, although I lack data :(
-
-Outside of solo work, I’m building Sociloc, an applied AI research initiative. It’s not about chasing breakthroughs—it’s about taking solid, often under-used ideas from papers and figuring out how to apply them in interesting ways. Sometimes that means adapting a model architecture to a new domain, sometimes it's rethinking how tools get deployed. It’s real research, just more grounded than flashy.
-
-If you’re exploring similar stuff—or just building things because they should exist—feel free to reach out (guillemrn9@gmail.com).
+I like building deep learning models.
