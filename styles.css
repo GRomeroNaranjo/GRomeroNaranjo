@@ -1,0 +1,94 @@
+:root {
+  --bg-color: #0d1117;
+  --text-color: #f5f5f5;
+  --accent-color: #10a37f;
+  --card-bg: #161b22;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+.hero {
+  background: linear-gradient(rgba(13,17,23,0.8), rgba(13,17,23,0.8)), url('pexels-pixabay-270360.jpg') center/cover no-repeat;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+  color: #c9d1d9;
+}
+
+section {
+  padding: 60px 20px;
+}
+
+h2 {
+  color: var(--accent-color);
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: 8px;
+  width: 280px;
+}
+
+.skills-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  padding: 0;
+}
+
+.skills-list li {
+  background: var(--card-bg);
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+
+a {
+  color: var(--accent-color);
+}
+
+footer {
+  background: var(--card-bg);
+  text-align: center;
+  padding: 20px 0;
+}
+
+@media (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+}
