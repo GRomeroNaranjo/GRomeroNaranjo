@@ -1,7 +1,5 @@
 <div align="center">
 
-# Guillem
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Deep+Learning+%26+Generative+AI;Building+Models+From+Scratch;Transformers+%7C+Diffusion+%7C+VAEs;Experimenting+With+Neural+Networks;Learning+By+Building" alt="Typing SVG" />
 
 </div>
