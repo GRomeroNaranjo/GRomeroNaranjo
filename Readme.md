@@ -5,7 +5,11 @@
 </div>
 
 <p align="justify">
-I'm interested in understanding deep learning beyond simply using existing models or libraries. A lot of my projects come from taking an architecture, paper, or idea and trying to rebuild it myself so I can understand what is actually happening underneath. I've worked on experiments involving GPT-style transformers, diffusion models, variational autoencoders, graph neural networks, feed-forward networks, and other machine learning approaches. I particularly enjoy generative AI, model architecture, training systems, and experimenting with ideas even when there isn't necessarily a practical end goal. For me, building things from scratch is one of the best ways to learn, so this GitHub is mostly a collection of projects, experiments, implementations, and things I'm currently trying to understand better.
+I’m focused on understanding deep learning at the architectural and implementation level, rather than treating existing models and libraries as black boxes. Many of my projects involve taking a research paper, architecture, or technical idea and implementing it from the ground up to develop a clearer understanding of the underlying mechanisms.
+
+My work includes experiments with GPT-style transformers, diffusion models, variational autoencoders, graph neural networks, feed-forward networks, and other machine learning architectures. My main areas of focus are generative AI, model architecture, training systems, and exploratory research-oriented implementations.
+
+This GitHub serves as a collection of technical projects, experiments, reproductions, and ongoing implementations aimed at developing a deeper understanding of modern machine learning systems.
 </p>
 <p align="center">
 <img height="36" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
